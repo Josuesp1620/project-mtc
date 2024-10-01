@@ -1,6 +1,6 @@
 export const RegisterView = () => {
     return (
-        <div>
+        <div className="bg-red-200">
             PAGINA DE REGISTRO
         </div>
     )
