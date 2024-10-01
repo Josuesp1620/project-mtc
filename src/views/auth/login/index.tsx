@@ -1,6 +1,6 @@
 export const LoginView = () => {
     return (
-        <div>
+        <div className="bg-zinc-800">
             PAGINA DE LOGIN
         </div>
     )
