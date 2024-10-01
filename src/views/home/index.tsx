@@ -4,7 +4,7 @@ export const HomeView = () => {
     return (
         <>
             <HeaderComponent />
-            <div className="bg-red-300">
+            <div className="bg-slate-400">
                 <p>PAGINA HOME</p>
             </div>
         </>
